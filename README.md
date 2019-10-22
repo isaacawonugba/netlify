@@ -1,0 +1,2 @@
+# netlify
+Mini netflix app 
